@@ -1,0 +1,5 @@
+"gene","expression_treated","gene_type"
+"BRCA1",1300,"oncogene"
+"EGFR",1150,"oncogene"
+"KRAS",730,"oncogene"
+"MYC",540,"oncogene"

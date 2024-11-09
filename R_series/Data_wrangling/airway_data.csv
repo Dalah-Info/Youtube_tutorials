@@ -1,0 +1,6 @@
+"gene","expression_treated","expression_control","gene_type","sample"
+"BRCA1",1300,1000,"oncogene","SampleA"
+"TP53",NA,880,"tumor_suppressor","SampleB"
+"EGFR",1150,NA,"oncogene","SampleC"
+"MYC",540,460,"oncogene","SampleD"
+"KRAS",730,680,"oncogene","SampleE"
