@@ -1,5 +1,5 @@
 # تثبيت وتحميل مكتبة Tidyverse
-install.packages("Tidyverse")
+install.packages("tidyverse")
 library(tidyverse)
 
 # قراءة الملف 
