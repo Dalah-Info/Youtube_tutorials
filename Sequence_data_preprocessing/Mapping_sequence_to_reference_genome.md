@@ -4,6 +4,13 @@
 
 لمشاهدة الدرس على اليوتيوب: https://youtu.be/g40S6DzZkdk
 
+لتحميل ملفات Fastq: 
+```bash
+fastq-dump --split-files SRR30893788
+```
+
+
+
 
 ## **1. تثبيت BWA-MEM2**
 قم بتنفيذ الأوامر التالية لتثبيت أداة **BWA-MEM2**:
