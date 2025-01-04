@@ -8,6 +8,9 @@
 ```bash
 fastq-dump --split-files SRR30893788
 ```
+أو عن طريق الرابط مباشرة:
+https://drive.google.com/drive/folders/1u7-VMPTHR-oywVJg0uX277LZPzd9svkg?usp=sharing
+
 
 
 
